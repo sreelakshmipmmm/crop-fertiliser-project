@@ -1,2 +1,2 @@
-# week-1
-week 1 of EDUNET -Shell internship
+# CROP AND FERTILISER RECOMMENDATION USING ML
+EDUNET -Shell internship
