@@ -1,6 +1,6 @@
 # CROP AND FERTILISER RECOMMENDATION USING ML
-EDUNET -Shell internship
-/n This project is a machine learning-based Crop Fertilizer Recommendation System designed to assist farmers in selecting the most suitable fertilizer for their crops based on soil attributes and other relevant factors GitHub.
+### EDUNET -Shell internship
+This project is a machine learning-based Crop Fertilizer Recommendation System designed to assist farmers in selecting the most suitable fertilizer for their crops based on soil attributes and other relevant factors GitHub.
 
 ## Key Features
 Fertilizer Recommendation: Uses machine learning to suggest optimal fertilizers for specific crops and soil conditions.
